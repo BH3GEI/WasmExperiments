@@ -3,7 +3,8 @@
 A small experiment comparing the performance of WebAssembly, JavaScript, and native Rust in two scenarios.
 
 ## Test Scenarios
-
+![alt text](image.png)
+![alt text](image-1.png)
 ### 1. Circle Drawing
 Randomly generate 100,000 colored circles
 - Native Rust: ~64ms
